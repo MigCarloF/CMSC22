@@ -1,1 +1,1 @@
-# CMSC22
+# CMSC22 Lab exercises
